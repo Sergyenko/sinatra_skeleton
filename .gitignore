@@ -1,0 +1,9 @@
+*~
+.*swp
+.*swo
+.DS_Store
+.idea
+nbproject/*
+log/*
+tmp
+*.orig
