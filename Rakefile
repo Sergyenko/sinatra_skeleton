@@ -5,7 +5,6 @@ Bundler.setup
 
 require 'rake'
 require 'spec/rake/spectask'
-require 'ruby-debug'
 
 THIN_OPTIONS = { :daemonize   => true,
                  :pid         => 'pid/thin.pid', 

@@ -3,7 +3,6 @@ source "http://rubygems.org"
 gem "rack"
 gem "sinatra"
 gem "rake"
-gem "ruby-debug"
 
 group :development do
   gem "thin"
